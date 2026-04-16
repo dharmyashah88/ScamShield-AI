@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#00FF88"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 4L8 16v16c0 14.4 10.24 27.84 24 32 13.76-4.16 24-17.6 24-32V16L32 4z" fill="none" stroke="url(#g)" stroke-width="3"/>
+  <circle cx="32" cy="28" r="6" fill="#00D4FF"/>
+  <circle cx="22" cy="22" r="3" fill="#00D4FF" opacity=".6"/>
+  <circle cx="42" cy="22" r="3" fill="#00D4FF" opacity=".6"/>
+  <circle cx="26" cy="36" r="3" fill="#00D4FF" opacity=".6"/>
+  <circle cx="38" cy="36" r="3" fill="#00D4FF" opacity=".6"/>
+  <line x1="32" y1="28" x2="22" y2="22" stroke="#00D4FF" stroke-width="1.2" opacity=".5"/>
+  <line x1="32" y1="28" x2="42" y2="22" stroke="#00D4FF" stroke-width="1.2" opacity=".5"/>
+  <line x1="32" y1="28" x2="26" y2="36" stroke="#00D4FF" stroke-width="1.2" opacity=".5"/>
+  <line x1="32" y1="28" x2="38" y2="36" stroke="#00D4FF" stroke-width="1.2" opacity=".5"/>
+  <line x1="22" y1="22" x2="26" y2="36" stroke="#00D4FF" stroke-width="1" opacity=".3"/>
+  <line x1="42" y1="22" x2="38" y2="36" stroke="#00D4FF" stroke-width="1" opacity=".3"/>
+</svg>
